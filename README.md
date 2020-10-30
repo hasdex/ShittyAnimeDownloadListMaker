@@ -3,7 +3,7 @@ Shitty Anime Download List Maker
 
 
 # How to run it
-cd ShittyAnimeDownloadListMaker-main<br>
+cd ShittyAnimeDownloadListMaker<br>
 python auto_url_multiplier.py
 
 # How to use it
